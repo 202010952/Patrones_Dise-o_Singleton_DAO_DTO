@@ -8,3 +8,5 @@ Singleton: es un patrón de diseño creacional que nos permite asegurarnos de qu
 DTO: Objeto serializable para la transferencia de datos.
 # Patron de diseño Data Access Object (DAO)
 DAO: patrón que me permite utilizar un objeto para poder acceder a la capa de datos, lo cual me permite establecer la conexión con la fuente de datos.
+#Proyecto desarrollado en colaboración con: 
+RJ Code Advance https://youtu.be/9NjtWyjjLKQ
