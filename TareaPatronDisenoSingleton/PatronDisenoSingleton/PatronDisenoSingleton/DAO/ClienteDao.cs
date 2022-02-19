@@ -38,5 +38,8 @@ namespace PatronDisenoSingleton.DAO
             Conexion.Close();
             return ListaGenerica;
         }
+        public void Insert() { }
+        public void Edit() { }
+        public void Delete() { }
     }
 }
