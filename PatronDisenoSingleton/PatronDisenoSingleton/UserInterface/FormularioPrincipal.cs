@@ -20,8 +20,8 @@ namespace PatronDisenoSingleton
 
         private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            FormularioClientes FrmClientes = new FormularioClientes();
-             FrmClientes.MdiParent = this;
+            FormularioClientes FrmClientes = FormularioClientes.ObtenerInstancia();
+            FrmClientes.MdiParent = this;
             FrmClientes.Show();
         }
     }
